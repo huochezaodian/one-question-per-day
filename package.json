@@ -1,0 +1,23 @@
+{
+  "name": "one-question-per-day",
+  "version": "1.0.0",
+  "description": "每日一题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node ./src/index.ts",
+    "commit": "git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huochezaodian/one-question-per-day.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "commitizen": "^4.2.4",
+    "git-cz": "^4.8.0",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
