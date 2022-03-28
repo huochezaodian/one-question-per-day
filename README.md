@@ -6,4 +6,4 @@
 
 - 28日 
   - 算法：[数组形式的整数加法](./algorithm/leet_code_989.ts)
-  - 手写：[函数柯里化](./ts/function_curry.ts)
+  - 手写：[函数柯里化](./js/function_curry.js)
