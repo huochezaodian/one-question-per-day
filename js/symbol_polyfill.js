@@ -1,6 +1,7 @@
 // 实现symbol polyfill
 //题解：如果浏览器不支持情况下 写出让代码让浏览器支持symbol
 
+// TODO: 完善特性，参考：https://github.com/medikoo/es6-symbol/blob/master/polyfill.js
 module.exports = SymbolPolyfill = function Symbol(description) {
   var symbol;
   // new 报错
