@@ -15,3 +15,7 @@
 - 30日 
   - 算法：[设计一个支持增量操作的栈](./algorithm/leet_code_1381.ts)
   - 手写：[实现 Promise.allSettled()](./js/promise_allSettled.js)
+
+- 31日 
+  - 算法：[字符串编码](./algorithm/leet_code_394.ts)
+  - 手写：[实现 Object.is()](./js/object_is.js)
