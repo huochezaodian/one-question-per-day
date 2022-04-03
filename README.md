@@ -21,5 +21,5 @@
 
 ### 4月
 - 3日 
-  - 算法：[](./algorithm/leet_code_232.ts)
+  - 算法：[用栈实现队列](./algorithm/leet_code_232.ts)
   - 手写：[计算分针和时针的角度](./js/hours_minutes_angle.js)
