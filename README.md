@@ -3,7 +3,6 @@
 ### 2022年
 
 ### 3月
-
 - 28日 
   - 算法：[数组形式的整数加法](./algorithm/leet_code_989.ts)
   - 手写：[函数柯里化](./js/function_curry.js)
@@ -19,3 +18,8 @@
 - 31日 
   - 算法：[字符串编码](./algorithm/leet_code_394.ts)
   - 手写：[实现 Object.is()](./js/object_is.js)
+
+### 4月
+- 3日 
+  - 算法：[](./algorithm/leet_code_232.ts)
+  - 手写：[计算分针和时针的角度](./js/hours_minutes_angle.js)
