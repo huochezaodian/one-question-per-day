@@ -30,3 +30,7 @@
 
 - 7日 
   - 算法：[旋转链表](./algorithm/leet_code_61.ts)
+
+- 8日 
+  - 算法：[两两交换链表中的节点](./algorithm/leet_code_24.ts)
+  - 手写：[实现 Object.create()](./js/object_create.js)
