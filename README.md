@@ -43,5 +43,9 @@
   - 算法：[相交链表](./algorithm/leet_code_160.ts)
   - 手写：[Promise.any()](./js/promise_any.js)
 
-- 11日 
+- 11日 (TODO) 
   - 算法：[环形链表 II](./algorithm/leet_code_142.ts)
+
+- 12日 
+  - 算法：[相交链表](./algorithm/leet_code_160.ts)
+  - 手写：[Promise.race()](./js/promise_race.js)
