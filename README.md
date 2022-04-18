@@ -47,5 +47,13 @@
   - 算法：[环形链表 II](./algorithm/leet_code_142.ts)
 
 - 12日 
-  - 算法：[相交链表](./algorithm/leet_code_160.ts)
+  - 算法：[LRU缓存](./algorithm/leet_code_146.ts)
   - 手写：[Promise.race()](./js/promise_race.js)
+
+- 13日 
+  - 算法：[二叉树的最大深度](./algorithm/leet_code_104.ts)
+  - 手写：[实现 produce()](./js/immerjs_produce.ts)
+
+- 14日 
+  - 算法：[相同的树](./algorithm/leet_code_100.ts)
+  - 手写：[Virtual DOM V - JSX 2](./js/virtual_dom_jsx.ts)
