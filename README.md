@@ -57,3 +57,7 @@
 - 14日 
   - 算法：[相同的树](./algorithm/leet_code_100.ts)
   - 手写：[Virtual DOM V - JSX 2](./js/virtual_dom_jsx.ts)
+
+- 15日 
+  - 算法：[求根节点到叶节点数字之和](./algorithm/leet_code_129.ts)
+  - 手写：[去除字符串](./js/remove_chars.ts)
